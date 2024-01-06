@@ -1,0 +1,1 @@
+-- Make a query which measures per trust: the total outstanding loan amount, the average loan size, the insurance rate, and the percentage of non-French loans.

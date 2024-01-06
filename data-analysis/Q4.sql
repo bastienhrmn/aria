@@ -1,0 +1,1 @@
+-- Make a query which measures the percentage of refused loans per month. On a secondary axis, display the total amount of loans requested during that month.

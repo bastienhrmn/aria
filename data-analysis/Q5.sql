@@ -1,0 +1,1 @@
+-- Make a query which measures the assets under management (AUM) over time, with a daily granularity. AUM is the total outstanding amount of loans.

@@ -1,0 +1,1 @@
+-- Make a query which measures the monthly production since inception. Production is the newly financed amount during the month.
